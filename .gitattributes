@@ -1,0 +1,4 @@
+*.c linguist-language=C
+*.cpp linguist-language=C++
+*.py linguist-language=Python
+*.js linguist-language=Java
